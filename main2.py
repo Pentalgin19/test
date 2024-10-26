@@ -247,7 +247,7 @@ def game_loop():
 
         draw_objects(snake, food, score)
         clock.tick(current_fps)
-
+#second
 
 if __name__ == "__main__":
     settings_menu()  # Отображение меню настроек перед началом игры
